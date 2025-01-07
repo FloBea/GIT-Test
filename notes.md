@@ -1,12 +1,12 @@
 
 # mes notes GIT
 
-##Introduction
+## Introduction
 Pour faire du GIT, il faut :
         - le logiciel GIT
         - un terminal
 
-##notes random 
+## notes random 
 
 git remote add origin "[url]"
 
