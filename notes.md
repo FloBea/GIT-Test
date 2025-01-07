@@ -1,5 +1,6 @@
 
-# mes notes GIT
+# mes notes GIT, cours 1
+
 
 ## Introduction
 Pour faire du GIT, il faut :
